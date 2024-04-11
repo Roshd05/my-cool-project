@@ -2,4 +2,11 @@ h1 {
   font-style: italic;
   color: blue;
   text-align: center;
+  margin: 0 auto;
+}
+
+img {
+  align-self: center;
+  display: block;
+  margin: 0 auto;
 }
